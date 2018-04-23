@@ -1,0 +1,228 @@
+{
+"nodes": [
+	{
+		"id": 1,
+		"final": 0,
+		"progress": 9.1,
+		"title": "George, a patient with chronic low back pain",
+		"subtitle": "",
+		"content": "George suffers from chronic low back pain that causes discomfort in his everyday life and has a devastating impact on his work, as he is a quite busy man and therefore is often forced to cancel appointments with potential clients. He is 55-years old and he suffers from this condition for five years. He has already undergone a spine operation in the past and was diagnosed with failed back surgery syndrome. However, during the last three months he started feeling burning sensations and acute pain in his left leg while having difficulties in walking and standing for long periods of time. After consulting a doctor who is an expert in chronic pain, the doctor decided to give George two epidural injections to reduce the amount of pain in his leg and help him walk better, as well as a complete treatment plan consisting of Pregabalin, Amitriptyline, 5km of walking 3-4 times / week, diet advice to lose weight, especially around the waist and advice to self-monitor his weight at home frequently. George decides to give this new treatment plan a try and see how it goes.",
+		"support": "Currently, there is no supporting information about this node",
+		"images" : [
+			{"src" : "assets/vps/44/1.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue", "target_node": 2}
+		] 
+	},
+	{
+		"id": 2,
+		"final": 0,
+		"progress": 18.2,
+		"title": "A week later",
+		"subtitle": "",
+		"content": "Having taken his new medication for a week, George is feeling really well this Sunday morning and decides to do some gardening in the front yard. Gardening has been his hobby for a long time and he has somewhat neglected it due to his back pain. He has been doing some gardening for the last 2 hours and he is feeling thirsty. He heads to the kitchen and he drinks a glass of water. He sits down on the kitchen table to rest for a while and after 10 minutes he realizes that his mouth is feeling dry again. He pours himself another glass of water and thinking about it he recalls that he has been feeling his mouth dry for some days now, even when he is not working out in the sun or doing something that makes him sweat. He is wondering what could be the cause of this. What should George do?",
+		"support": "Currently, there is no supporting information about this node",
+		"images" : [
+			{"src" : "assets/vps/44/2.jpg"}
+		],
+		"buttons": [
+			{"label": "Rush to the pain center clinic", "target_node": 7},
+			{"label": "Check out the medicine leaflets and see if he can get any information on dry mouth", "target_node": 8}
+		] 
+	},
+			{
+		"id": 3,
+		"final": 0,
+		"progress": 36.4,
+		"title": "Two weeks later",
+		"subtitle": "",
+		"content": "George, relieved finally from his pain after his injections, was initially positive and ready to follow his doctor's treatment. Two weeks later though, he began feeling increasingly tired while doing his walking routines, and his sleep, although of the same duration as the previous days, did not give him enough rest. What should George do about it?",
+		"support": "Currently, there is no supporting information about this node",
+		"images" : [
+			{"src" : "assets/vps/44/3.jpg"}
+		],
+		"buttons": [
+			{"label": "Stop exercising to avoid getting tired while searching on the internet for solutions to his problem", "target_node": 9},
+			{"label": "Visit his doctor again to inform him about his problems and ask him for some further advice to his tiredness", "target_node": 10}
+			] 
+	},
+	{
+		"id": 4,
+		"final": 0,
+		"progress": 54.5,
+		"title": "A night out",
+		"subtitle": "",
+		"content": "George and his friends are having a night on their own in a local restaurant enjoying some good old music along with quality food and some wine. George was never a strong drinker so he is taking it slow and ends up drinking just 2 glasses of red wine while the rest of his company are having their good share of drinking. The night goes by and as they decide to leave George realizes that he is feeling quite dizzy as if drunk but he has never felt that way after having just 2 glasses of wine. He is heading towards his car but he is having second thoughts about driving home. What should George do?",
+		"support": "Currently, there is no supporting information about this node",
+		"images" : [
+			{"src" : "assets/vps/44/4.jpg"}
+		],
+		"buttons": [
+			{"label": "Call a cab to drive him home", "target_node": 11},
+			{"label": "Drive home on his own", "target_node": 12}
+		] 
+	},
+	{
+		"id": 5,
+		"final": 0,
+		"progress": 72.7,
+		"title": "A year later",
+		"support": "Currently, there is no supporting information about this node",
+		"content": "A year later, George lives a happy life with proper pain management. Besides that, he recently was promoted at the company he had been working. Although he receives a higher salary now, he is dealing with more responsibilities in his everyday work which make him feel stressed and influence his mood. He is having trouble sleeping at night and he constantly feels tired, while having a sense of disappointment from his performance. At the same time, his pain has worsened since his promotion, almost two months ago, making him feel like he has entered the vicious cycle between pain and sadness again. ",
+		"support": "",
+		"images" : [
+			{"src" : "assets/vps/44/5.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue/Consult his doctor", "target_node": 6}
+		] 
+	},
+		{
+		"id": 6,
+		"final": 0,
+		"progress": 81.8,
+		"title": "Treatment decision",
+		"subtitle": "",
+		"content": "After an appointment, his doctor advises George that he should control his anxiety from his work and attend some weekly private consultations with his psychiatrist to assist him in doing that. As that would require some of his free time, George doesn’t like the idea and favors a less time consuming option. His doctor suggests an increase in his pregabalin dosage to better control the pain, thus dealing with a source of stress, something that George finds more suitable and so begins his new treatment. Few days later, while working on his computer, he starts feeling dizzy and his vision becomes blurry. The same happens the following two days, in addition to increased sleepiness. George thinks that all of these are somehow related to the recent increase in pregabalin’s dosage. What should George do?",
+		"support": "Currently, there is no supporting information about this node",
+		"images" : [
+			{"src" : "assets/vps/44/6.jpg"}
+		],
+		"buttons": [
+			{"label": "Immediately stop using pregabalin and check if these symptoms go away", "target_node": 13},
+			{"label": "Continue his current medication and try taking a few days off work while waiting for these symptoms to stop", "target_node": 14}
+		] 
+	},
+		{
+		"id": 7,
+		"final": 0,
+		"progress": 27.3,
+		"title": "Drive to the pain center",
+		"subtitle": "Incorrect choice",
+		"content": "He decides to make the 60 km drive to the pain center where he gets to talk to a nurse who informs him that dry mouth is a common side effect of one of his new medications, Amitryptiline. George is feeling relieved but he realizes that he wasted his Sunday with his overreaction!",
+		"support": "Dry mouth is a common side effect of Amitryptiline, which usually occurs during the first month of usage. It may be persistent and annoying and patients are often advised to use some kind of saliva substitute to prevent teeth decay. If the symptom persists patients are advised to contact their doctor to possibly lower the dosage.",
+		"images" : [
+			{"src" : "assets/vps/44/7.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue", "target_node": 3}
+		] 
+	},
+		{
+		"id": 8,
+		"final": 0,
+		"progress": 27.3,
+		"title": "Read the medicine leaflets",
+		"subtitle": "Correct choice",
+		"content": "He starts reading the medicine leaflets and quickly finds out that dry mouth is a common side effect of Amitryptiline. George is feeling relieved and is glad to have not overreacted and not wasted this beautiful Sunday morning worrying about it. He decides that he could easily drink some more water daily to cope with his dry mouth and see if it gets better.",
+		"support": "Dry mouth is a common side effect of Amitryptiline, which usually occurs during the first month of usage. It may be persistent and annoying and patients are often advised to use some kind of saliva substitute to prevent teeth decay. If the symptom persists patients are advised to contact their doctor to possibly lower the dosage.",
+		"images" : [
+			{"src" : "assets/vps/44/8.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue", "target_node": 3}
+		] 
+	},
+	{
+		"id": 9,
+		"final": 0,
+		"progress": 45.5,
+		"title": "Stop exercising and search online for solutions",
+		"subtitle": "Incorrect choice",
+		"content": "After countless hours of searching on the internet for solutions to his problem, George becomes frustrated by the amount of information unrelated to his condition and the inconsistency of advice. The fact that he stopped his walking routines led to him feeling lazy and his mood was low. George starts to regret the fact that he didn’t seek medical advice from his doctor…",
+		"support": "It is not uncommon for patients with chronic pain to face difficulties following their initial treatment plan. This is completely normal and can happen to any patient. The best way for a patient to overcome this, is to consult his/her doctor in order for the doctor to encourage the patient to seek psychological support or, to reduce some of the patient’s treatment goals to raise the patient’s morale and motivate him/her to reach them.",
+		"images" : [
+			{"src" : "assets/vps/44/9.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue", "target_node": 4}
+		] 
+	},
+			{
+		"id": 10,
+		"final": 0,
+		"progress": 45.5,
+		"title": "Visit to his doctor",
+		"subtitle": "Correct choice",
+		"content": "George visits his doctor and together they form a new treatment plan with less walking distances and the inclusion of weekly physiotherapy sessions from a certified physiotherapist experienced in the management of chronic pain patients.",
+		"support": "It is not uncommon for patients with chronic pain to face difficulties following their initial treatment plan. This is completely normal and can happen to any patient. The best way for a patient to overcome this, is to consult his/her doctor in order for the doctor to encourage the patient to seek psychological support or, to reduce some of the patient’s treatment goals to raise the patient’s morale and motivate him/her to reach them.",
+		"images" : [
+			{"src" : "assets/vps/44/10.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue", "target_node": 4}
+		] 
+	},
+		{
+		"id": 11,
+		"final": 0,
+		"progress": 63.6,
+		"title": "Call a cab to drive him home",
+		"subtitle": "Correct choice",
+		"content": "George decides to call a cab to drive him home where he manages to get himself into bed. Waking up in the morning after a good night's sleep he is thinking about the previous night and decides to contact his doctor through e-mail to inform him about what happened.",
+		"support": "There are two drugs that George is taking that can have an impact on his ability to drive. Pregabalin can cause dizzyness and sleepiness and patients are advised to avoid or be very careful when driving while on the medication. Amitryptiline can amplify the suppressing effects of alcohol on the central brain system, thus making driving under influence extremely dangerous.",
+		"images" : [
+			{"src" : "assets/vps/44/11.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue", "target_node": 5}
+		] 
+	},
+		{
+		"id": 12,
+		"final": 1,
+		"progress": 63.6,
+		"title": "Drive home on his own",
+		"subtitle": "Incorrect choice",
+		"content": "George decides to drive home on his own. After ten minutes of driving he falls asleep on the wheel and crashes with 80 kms/hr into the side bar of the road where he is severely injured having forgotten to wear his seatbelt and succumbs to his wounds!",
+		"support": "There are two drugs that George is taking that can have an impact on his ability to drive. Pregabalin can cause dizzyness and sleepiness and patients are advised to avoid or be very careful when driving while on the medication. Amitryptiline can amplify the suppressing effects of alcohol on the central brain system, thus making driving under influence extremely dangerous.",
+		"images" : [
+			{"src" : "assets/vps/44/12.jpg"}
+		],
+		"buttons": [] 
+	},	
+	{
+		"id": 13,
+		"final": 0,
+		"progress": 90.9,
+		"title": "He stops taking pregabalin",
+		"subtitle": "Incorrect choice",
+		"content": "After stopping pregabalin for a few days, George starts having insomnia in the night and his anxiety has worsened compared to the previous days. His pain has also worsened. He thinks that maybe he shouldn’t have stopped taking pregabalin so suddenly…",
+		"support": "While the new onset of blurred vision and sleepiness are most likely attributed to the increase of pregabalin’s dose in this case, sudden cessation of pregabalin should be avoided as it can lead to other unpleasant symptoms, such as difficulty sleeping, nausea, headache, anxiety, nervousness, irritability,increased sweating, and diarrhea. It is advised to patients experiencing symptoms of new onset, which can be attributed to a recent increase in pregabalin’s dosage, to wait and check if they would automatically get better, as these symptoms are usually temporary. If they do not stop in a few days or the patient faces difficulties that seriously impair his social life/work, the patient should notify his/her doctor and let the doctor prescribe a different dosage of the medication, as these symptoms are usually dosage-depended. Of use is also the private consultation sessions that were suggested by George’s doctor to him, as they have been shown to help patients cope with their everyday stress and chronic pain.",
+		"images" : [
+			{"src" : "assets/vps/44/13.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue", "target_node": 15}
+		] 
+	},
+		{
+		"id": 14,
+		"final": 0,
+		"progress": 90.9,
+		"title": "Take some days off work and wait for the symptoms to go away",
+		"subtitle": "Correct choice",
+		"content": "George decides to take a few days off work and wait for the symptoms to stop. Eventually his vision returns to normal and he sleeps better. His pain control is improved and he feels that he can return to his work without any problems!",
+		"support": "While the new onset of blurred vision and sleepiness are most likely attributed to the increase of pregabalin’s dose in this case, sudden cessation of pregabalin should be avoided as it can lead to other unpleasant symptoms, such as difficulty sleeping, nausea, headache, anxiety, nervousness, irritability,increased sweating, and diarrhea. It is advised to patients experiencing symptoms of new onset, which can be attributed to a recent increase in pregabalin’s dosage, to wait and check if they would automatically get better, as these symptoms are usually temporary. If they do not stop in a few days or the patient faces difficulties that seriously impair his social life/work, the patient should notify his/her doctor and let the doctor prescribe a different dosage of the medication, as these symptoms are usually dosage-depended. Of use is also the private consultation sessions that were suggested by George’s doctor to him, as they have been shown to help patients cope with their everyday stress and chronic pain.",
+		"images" : [
+			{"src" : "assets/vps/44/14.jpg"}
+		],
+		"buttons": [
+			{"label": "Continue", "target_node": 15}
+		] 
+	},
+	{
+		"id": 15,
+		"final": 1,
+		"progress": 100,
+		"title": "Conclusion",
+		"subtitle": "",
+		"content": "After facing both his pain as well as some common implications of his treatment, George is confident now that he can effectively deal with any problem that has to do with his condition. He feels safe in the knowledge that a team of highly qualified health care professionals are always there for him to assist him in his daily life whenever he requires medical care or simply some advice.",
+		"support": "Congratulations on helping George overcome his problems with his chronic pain! We hope that this game helped you clarify some of your questions regarding the management of chronic pain. If you have any questions related to chronic pain, the best option for you is to initially consult a doctor or a team of certified medical care providers specialized in chronic pain. Always keep in mind, that there is no plan that works perfectly for every patient and decisions must be made and modified until there is a plan that works well for you and still has the desired effects on your disease mamagement.",
+		"images" : [
+			{"src" : "assets/vps/44/15.jpg"}
+		],
+		"buttons": [] 
+	}
+]}

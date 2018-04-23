@@ -1,0 +1,90 @@
+<div class="container mb-5">
+
+<p *ngIf="node" class="text-center"><ngb-progressbar type="warning" [value]="node.progress" [striped]="true" [animated]="true">Completed <i>{{node.progress}}%</i></ngb-progressbar>
+</p>
+
+<div class="card" *ngIf="node">
+  <div class="card-images" *ngIf="node.images.length">
+    <img *ngFor="let im of node.images" class="card-img-top" [src]="im.src" alt="Card image cap" />
+  </div>
+
+  <div class="card-block">
+    <h4 class="card-title">{{node.title}}</h4>
+    <h6 class="card-subtitle mb-2 text-muted">{{node.subtitle}}</h6>
+    <p class="card-text">
+      {{node.content}}
+    </p>
+    <button class="btn card-link btn-sm btn-outline-primary" (click)="open(content)">Supporting information</button>
+  </div>
+ 
+   <div class="card-footer" *ngIf="node.buttons.length">
+   	<strong>What do you want to do next?</strong>
+  		<div class="custom-controls-stacked">
+  		  <label class="custom-control custom-radio mt-3 mb-3 " *ngFor="let b of node.buttons; let i=index" >
+  		    <input name="radio-stacked" type="radio" class="custom-control-input" (change)="onSelectionChange(b.target_node)" value="b.target_node">
+  		    <span class="custom-control-indicator"></span>
+  		    <span class="custom-control-description">{{b.label}}</span>
+  		  </label>
+  		</div>
+  	    <button type="button" (click)="goToAction()" class="text-wrap mt-3 mb-3 btn btn-primary btn-block">Continue</button>
+    </div>
+ 
+   <div class="card-footer" *ngIf="node.final">
+    <strong>Your pathway</strong>
+        <div *ngFor="let n of pathway; let i=index">
+          <i class="fa fa-circle-o"></i>  {{ n.title }}
+          <div class="p-3 vline">
+            <div> {{ n.subtitle }}</div>
+            <div><i class="fa fa-clock-o"></i> Time spent: XXs</div>
+          </div>
+          <div *ngIf="n.final">
+            <i class="fa fa-circle-o"></i>  End of virtual patient
+          </div>
+        </div>
+    </div>
+
+  <div class="m-3 text-center">
+    <button class="btn card-link btn-sm btn-outline-primary" *ngIf="!node.final" (click)="openp(pathwaym)">Review your pathway</button>
+  </div>
+
+ </div>
+</div>
+
+<ng-template #pathwaym let-c="close" let-d="dismiss">
+  <div class="modal-header">
+    <h4 class="modal-title">Review your pathway</h4>
+    <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+      <div *ngFor="let n of pathway; let i=index">
+          <i class="fa fa-circle-o"></i>  {{ n.title }}
+          <div class="p-3 vline">
+            <div> {{ n.subtitle }}</div>
+            <div><i class="fa fa-clock-o"></i> Time spent: XXs</div>
+        </div>
+      </div>
+      <div class="text-success"><i class="fa fa-circle-o"></i>  You are here!</div>
+    
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-dark" (click)="c('Close click')">Close</button>
+  </div>
+</ng-template>
+
+
+<ng-template #content let-c="close" let-d="dismiss">
+  <div class="modal-header">
+    <h4 class="modal-title">Supporting information</h4>
+    <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <p>{{ node.support }}</p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-dark" (click)="c('Close click')">Close</button>
+  </div>
+</ng-template>

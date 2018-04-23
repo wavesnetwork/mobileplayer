@@ -1,0 +1,249 @@
+{
+"nodes": [
+	{
+		"id": 1,
+		"final": 0,
+		"progress": 0,
+		"title": "Case",
+		"subtitle": "",
+		"content": "You are enjoying your steaming hot double macchiato in the cafeteria of your hospital, after an exhausting 12hour shift. You are about to take your first sip and suddenly you get a call from the emergency department informing you about a 52-year-old woman, who came complaining about high fever (39⁰C) with chills and a subtle discomfort around the right upper abdominal quadrant. You immediately go to the emergency department where the patient is. What’s your first step?",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/1.jpg"}
+		],
+		"buttons": [
+			{"label": "1. Take patient's history", "target_node": 2},
+			{"label": "2. Prescribe antipyretics and advise her to go home and get some rest", "target_node": 14},
+			{"label": "3. Immediately arrange a diagnostic laparotomy", "target_node": 13}
+		] 
+	},
+	{
+		"id": 2,
+		"final": 0,
+		"progress": 25,
+		"title": "",
+		"subtitle": "",
+		"content": "After taking a thorough history you learn that she has fever since 2 days ago, resistant to antipyretics (which she took while at home), without any other sign of illness from the respiratory system or the urinary tract. She is a social drinker and is diagnosed with hypothyroidism, for which she is currently taking T4. She is also a moderate smoker (2 packs per day for >15 years). She has type 2 diabetes with poor compliance, currently under insulin and metformin. She also takes losartan with hydrochlorothiazide for her hypertension. She is a mother of two and both of her children were delivered with caesarian section without any complications. Upon finishing you start to think what your next step should be…:",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/2.png"}
+		],
+		"buttons": [
+			{"label": "1. Perform physical examination and record vital signs", "target_node": 3},
+			{"label": "2. Prescribe painkillers and close monitoring", "target_node": 12},
+			{"label": "3. Arrange an urgent ERCP", "target_node": 11},
+			{"label": "4. Send her for abdominal CT", "target_node": 10}
+		] 
+	},
+	{
+		"id": 3,
+		"final": 0,
+		"progress": 37.5,
+		"title": "",
+		"subtitle": "",
+		"content": "Her vitals are: BP: 100/70 mm Hg, Pulse rate: 110 bpm, SO2: 96%, T: 39,5⁰C with chills, Respiratory rate: 24 breaths/m. You realize that the patient is in need of IV fluids in order to continue with the examination. After performing a physical examination you also discover that she has sensitivity in the right hypochondrial region, jaundice and a negative Murphy’s sign. What should the next step be? :",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/3.jpg"}
+		],
+		"buttons": [
+			{"label": "1. Arrange full blood examinations, urine sample and blood cultures", "target_node": 4},
+			{"label": "2. Abdominal X-ray", "target_node": 9},
+			{"label": "3. Abdominal U/S", "target_node": 8},
+			{"label": "4. Perform ERCP", "target_node": 11}
+		] 
+	},
+	{
+		"id": 4,
+		"final": 0,
+		"progress": 50,
+		"title": "",
+		"subtitle": "",
+		"content": "After administering fluids to stabilize the patient and monitoring her for a while, you get the results of the blood exams and you are being informed that the cultures will be ready in two days. The abnormal findings from the exams are the following: WBC : 17000/mm3, Conjugated bilirubin: 6mg/dl, ALP: 590 IU/l, AST: 75, ALT : 78, LDH : 370. The findings from the urine sample are suggesting obstruction of the bile flow.",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/4.png"}
+		],
+		"buttons": [
+			{"label": "After you evaluate the findings you decide to admit her in the hospital.", "target_node": 5}
+		] 
+	},
+		{
+		"id": 5,
+		"final": 0,
+		"progress": 62.5,
+		"title": "",
+		"subtitle": "",
+		"content": "After the admission, you continue the fluid administration while adding broad spectrum IV antibiotics and ordering an antibiogram. You also perform an U/S and find a dilation at the distal part of the common bile duct and gallstones in the gallbladder without any sign of inflammation. You also check her vitals again which now are: BP: 127 – 85 mmHg, Pulses: 90 bpm, SO2: 98%, T: 38,2° C, Respiratory rate: 16 breaths/m. You decide that the ideal treatment option for her condition is:",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/5.png"}
+		],
+		"buttons": [
+			{"label": "1. An ERCP", "target_node": 15},
+			{"label": "2. A cholecystectomy", "target_node": 7},
+			{"label": "3. Switch to antibiotics per os, discharge and give advice on diet", "target_node": 14}
+		] 
+	},
+		{
+		"id": 6,
+		"final": 1,
+		"progress": 0,
+		"title": "The patient died!!!",
+		"subtitle": "",
+		"content": "Few hours later, the patient becomes septic and has a heart failure. After many attempts, the resuscitation team fails to revive the patient. The next day you get a call for a lawsuit against you for malpractice. Maybe you should had considered the other treatment options…",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/6.png"}
+		],
+		"buttons": [] 
+	},
+		{
+		"id": 7,
+		"final": 0,
+		"progress": 75,
+		"title": "",
+		"subtitle": "",
+		"content": "The patient is arranged for laparoscopic cholecystectomy. During the operation, the surgeon sees no sign of inflammation in the gallbladder but instead finds the common bile duct to be inflamed with a stone inside the distal part. He asks you how he should proceed:",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/7.jpg"}
+		],
+		"buttons": [
+			{"label": "1. Stop the cholecystectomy and convert to an open surgery in order to safely remove the stones from the bile duct", "target_node": 15},
+			{"label": "2. Stop the operation and perform an ERCP instead", "target_node": 15}
+		] 
+	},
+		{
+		"id": 8,
+		"final": 0,
+		"progress": 0,
+		"title": "",
+		"subtitle": "",
+		"content": "You perform an U/S and find a dilation at the distal part of the common bile duct and gallstones in the gallbladder without any sign of inflammation. What do you do? :",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/8.jpg"}
+		],
+		"buttons": [
+			{"label": "1. Arrange full blood examinations, urine sample and blood cultures", "target_node": 4},
+			{"label": "2. Prescribe broad spectrum antibiotics per os and antipyretics and advise her to take some rest", "target_node": 6}
+		] 
+	},
+		{
+		"id": 9,
+		"final": 0,
+		"progress": 0,
+		"title": "",
+		"subtitle": "",
+		"content": "There were no abnormal findings in the abdominal X-ray. Your next action is:",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/9.jpg"}
+		],
+		"buttons": [
+			{"label": "Reevaluate", "target_node": 3}
+		] 
+	},
+		{
+		"id": 10,
+		"final": 0,
+		"progress": 0,
+		"title": "",
+		"subtitle": "",
+		"content": "You get a call from the radiology department telling you that you shouldn’t be in such a hurry without first examining the patient!",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/10.jpg"}
+		],
+		"buttons": [
+			{"label": "Go back and perform physical examination", "target_node": 3}
+		] 
+	},
+		{
+		"id": 11,
+		"final": 0,
+		"progress": 0,
+		"title": "",
+		"subtitle": "",
+		"content": "You get a call from the radiology department informing you that there is no indication yet in doing an urgent ERCP without first perform a physical examination…! You get a feeling that they will remember you for quite a long time… ",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/11.jpg"}
+		],
+		"buttons": [
+			{"label": "Go back and perform physical examination", "target_node": 3}
+		] 
+	},
+		{
+		"id": 12,
+		"final": 0,
+		"progress": 0,
+		"title": "",
+		"subtitle": "",
+		"content": "After monitoring her in the emergency department her vitals were worsened: BP: 90/60 mm Hg, PR: 120 bpm, T: 40⁰C, SO2: 90%, Respiratory rate: 27 breaths/m. She has also become agitated and disoriented in time and place.",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/12.jpg"}
+		],
+		"buttons": [
+			{"label": "You decide to administer immediately fluids, broad spectrum IV antibiotics and perform full blood examinations", "target_node": 4}
+		] 
+	},
+		{
+		"id": 13,
+		"final": 0,
+		"progress": 0,
+		"title": "",
+		"subtitle": "",
+		"content": "The head of your department is informed of your decision and phones you immediately, screaming in the phone things like “go back to medical school so you can learn the basics! Go take a quick HISTORY before doing anything else first!”",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/13.jpg"}
+		],
+		"buttons": [
+			{"label": "Take patient's history", "target_node": 2}
+		] 
+	},
+		{
+		"id": 14,
+		"final": 1,
+		"progress": 0,
+		"title": "The patient died!!!",
+		"subtitle": "",
+		"content": "The next day you get a call from a lawyer. The woman passed away on her way home and her husband is filing a lawsuit against you for malpractice. Well….he’s right you know….What in the world were you thinking…!?",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/14.png"}
+		],
+		"buttons": [] 
+	},
+		{
+		"id": 15,
+		"final": 0,
+		"progress": 87.5,
+		"title": "",
+		"subtitle": "",
+		"content": "During the operation, the surgeon found a stone inside the distal part of the common bile duct and proceeded in removing it without any complications. The following days she completely recovered and was discharged. You advise her to come for a checkup in the following days for any post-surgical complications.",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/15.png"}
+		],
+		"buttons": [
+			{"label": "Conclusion", "target_node": 16}
+		] 
+	},
+	{
+		"id": 16,
+		"final": 1,
+		"progress": 100,
+		"title": "SUCCESS!!",
+		"subtitle": "CONGRATULATIONS, YOU SAVED HER!!! ",
+		"content": "Short discussion: The patient was diagnosed with acute cholangitis due to a gallstone that passed from her gallbladder and obstructed the bile flow at the distal part of the common bile duct. She quickly became septic and was in need of fluid resuscitation and IV broad spectrum antibiotics (while ordering blood cultures to change the antibiotic therapy accordingly). Note that approximately 50% of stones inside the bile duct are not seen in U/S and only 5-15% are seen in plain abdominal X-rays due to the chemical ingredients of that constitute them (mainly cholesterol stones coming from the gallbladder). The patient was stabilized but due to the high fever and the presence of gallstones, there was clear indication for an ERCP, as there was a high possibility of an obstruction (note that if the obstruction is not dealt with the antibiotics alone may not suffice and the cholangitis could be turned to its suppurative, form with increased chance of perforation and high mortality rates). While both ERCP and open surgery are acceptable options in the excision of the stone, ERCP provides a less invasive diagnostic method with excellent success rates in the removal of the stone and the avoidance of complications. ",
+		"support-info": "",
+		"images" : [
+			{"src" : "assets/vps/99/16.jpg"}
+		],
+		"buttons": [] 
+	}
+]}

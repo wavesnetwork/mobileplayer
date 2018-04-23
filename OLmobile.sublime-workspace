@@ -1,0 +1,1450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"hfont",
+				"hfontweight\tproperty"
+			],
+			[
+				"Options",
+				"OptionsFontFamilyPage\talias"
+			],
+			[
+				"Optios",
+				"OptionsFontFamilyPage\talias"
+			],
+			[
+				"Opt",
+				"OptionsFontFamilyPage\talias"
+			],
+			[
+				"def",
+				"defaultSettings\tconst"
+			],
+			[
+				"se",
+				"settings\tproperty"
+			],
+			[
+				"Sett",
+				"SettingsProvider\talias"
+			],
+			[
+				"nb",
+				"nbdo\tmethod"
+			],
+			[
+				"pro",
+				"processArrData\tmethod"
+			],
+			[
+				"to",
+				"toLowerCase\tmethod"
+			],
+			[
+				"na",
+				"navCtrl\tproperty"
+			],
+			[
+				"pr",
+				"processData\tmethod"
+			],
+			[
+				"get",
+				"getAttribute\tmethod"
+			],
+			[
+				"f",
+				"fcount\tproperty"
+			],
+			[
+				"de",
+				"deleteItem\tmethod"
+			],
+			[
+				"pop",
+				"popToRoot\tmethod"
+			],
+			[
+				"Fire",
+				"FirebaseObjectObservable\talias"
+			],
+			[
+				"load",
+				"loadSingle\tmethod"
+			],
+			[
+				"fe",
+				"ftext\tproperty"
+			],
+			[
+				"cu",
+				"currentUserId\tgetter"
+			],
+			[
+				"feed",
+				"feedsService\tproperty"
+			],
+			[
+				"auth",
+				"authState\tproperty"
+			],
+			[
+				"snap",
+				"snapshotToArray\tconst"
+			],
+			[
+				"retur",
+				"returnArr\tlet"
+			],
+			[
+				"fee",
+				"feedItems\tproperty"
+			],
+			[
+				"sna",
+				"snapshotToArray\tconst"
+			],
+			[
+				"ge",
+				"getUserFeeds\tmethod"
+			],
+			[
+				"L",
+				"logoutUser\tmethod"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"An",
+				"AngularFireDatabase\talias"
+			],
+			[
+				"nav",
+				"navParams\tproperty"
+			],
+			[
+				"Feed",
+				"FeedItem\talias"
+			],
+			[
+				"Fee",
+				"feedItem\tparameter"
+			],
+			[
+				"err",
+				"errMsg\tlet"
+			],
+			[
+				"nu",
+				"number\tkeyword"
+			],
+			[
+				"com",
+				"compactmode\tparameter"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"type",
+				"typeof\tkeyword"
+			],
+			[
+				"getEleme",
+				"getElementsByTagName\tmethod"
+			],
+			[
+				"respo",
+				"response2\tlet"
+			],
+			[
+				"try",
+				"try catch"
+			],
+			[
+				"$ionic",
+				"$ionicLoading"
+			],
+			[
+				"setTi",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"setT",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ng",
+				"ng-change\tAngularJS"
+			],
+			[
+				"wri",
+				"writeln(line)\tDocument"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"le",
+				"length\tString"
+			],
+			[
+				"filter",
+				"filter(${0:callback})\tArray"
+			],
+			[
+				"ion-js-a",
+				"ion-js-$ionicActionSheet-ng\tion-js-$ionicActionSheet-ng"
+			],
+			[
+				"$inter",
+				"$interval\tAngularJS"
+			],
+			[
+				"ife",
+				"if else"
+			],
+			[
+				"cl",
+				"cl\tconsole.log"
+			],
+			[
+				"angu",
+				"angular.bootstrap"
+			],
+			[
+				"recordi",
+				"recordingtime"
+			],
+			[
+				"assess",
+				"assessments"
+			],
+			[
+				"assessment",
+				"assessments"
+			],
+			[
+				"obs",
+				"observation"
+			],
+			[
+				"obse",
+				"observation"
+			],
+			[
+				"timer",
+				"timerRunning"
+			],
+			[
+				"asses",
+				"assessments"
+			],
+			[
+				"beha",
+				"behaviours"
+			],
+			[
+				"phas",
+				"phaseId"
+			],
+			[
+				"schol",
+				"schoolInformation"
+			],
+			[
+				"keep",
+				"keepMeLogged"
+			],
+			[
+				"Sta",
+				"Status"
+			],
+			[
+				"locals",
+				"localstorage"
+			],
+			[
+				"tot",
+				"total_amount"
+			],
+			[
+				"webfo",
+				"webform_component"
+			],
+			[
+				"ac",
+				"accommodation"
+			],
+			[
+				"web",
+				"webform_component"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"we",
+				"webform_component"
+			],
+			[
+				"$form",
+				"$form_state"
+			],
+			[
+				"hook_form",
+				"hook_form_alter\thook_form_alter"
+			],
+			[
+				"pre",
+				"preview"
+			],
+			[
+				"sub",
+				"submitted"
+			],
+			[
+				"$to",
+				"$total_amount"
+			],
+			[
+				"$hote",
+				"$hotel_room_type"
+			],
+			[
+				"$hot",
+				"$hotel_room_type"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"import",
+				"important"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.ts",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dimitris/Downloads/SmokeFreeBraincases_mvp_2063700949/map.xml",
+			"settings":
+			{
+				"buffer_size": 1039,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packages",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"indent",
+				"IndentX: Indent"
+			],
+			[
+				"inde",
+				"IndentX: Indent & format JSON"
+			],
+			[
+				"indend",
+				"IndentX: Indent"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"lore",
+				"Snippet: lorem - Short paragraph"
+			],
+			[
+				"lo",
+				"Snippet: lorem - One sentence"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"inden",
+				"IndentX: Indent"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"index",
+				"IndentX: Indent & format JSON"
+			],
+			[
+				"html be",
+				"HTMLBeautify"
+			],
+			[
+				"ion-l",
+				"Snippet: ion-list-inset"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"in",
+				"Increment Selection"
+			],
+			[
+				"inc",
+				"Increment Selection"
+			],
+			[
+				"ince",
+				"Increment Selection"
+			],
+			[
+				"c",
+				"Compare with..."
+			],
+			[
+				"woa",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"open",
+				"Terminal: Open"
+			],
+			[
+				"file",
+				"File: Reveal"
+			],
+			[
+				"file ",
+				"File: Locate"
+			],
+			[
+				"comp",
+				"Compare with..."
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"synt",
+				"Set Syntax: SCSS"
+			],
+			[
+				"packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"idne",
+				"IndentX: Indent"
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"pac",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"togg",
+				"Toggle Comment"
+			],
+			[
+				"temr",
+				"Terminal: Open"
+			],
+			[
+				"te",
+				"Terminal: Open"
+			],
+			[
+				"open ",
+				"Terminal: Open"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"to",
+				"Terminal: Open"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"coloe",
+				"Color Picker"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"su",
+				"Snippet: hook_user_categories"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"ind",
+				"Auto indent"
+			],
+			[
+				"card",
+				"Snippet: ionic-css-card"
+			],
+			[
+				"ionic",
+				"Snippet: ionic-content"
+			],
+			[
+				"ion",
+				"Snippet: ion-card"
+			],
+			[
+				"button",
+				"Snippet: bs3-button"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"beay",
+				"Javascript Beautify"
+			],
+			[
+				"beat",
+				"Javascript Beautify"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"angula",
+				"Snippet: Angular.js"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"ion-ta",
+				"Snippet: ion-tabs-icon-top"
+			],
+			[
+				"ion-",
+				"Snippet: ion-card"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"emm",
+				"Emmet: Balance (outward)"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"tod",
+				"TodoReview: Project Files"
+			],
+			[
+				"ioni",
+				"Snippet: ionic-css-button"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"clear",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src"
+	],
+	"file_history":
+	[
+		"/Users/dimitris/Downloads/SmokeFreeBraincases_mvp_2063700949.zip.html",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/package.json",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/theme/theme.scss",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/translations/fr-FR.json",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/theme/theme-variables.scss",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/dist/fontawesome-webfont.af7ae505a9eed503f8b8.woff2",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/e2e/app.po.ts",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/translations/en-US.json",
+		"/private/var/folders/k0/kfztsycn02v9hlztw21_w7m40000gn/T/fz3temp-2/index.html",
+		"/Users/dimitris/Desktop/ng2/ngMed/README.md",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/play/play.component.ts",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/play/play.component.html",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/play/play.component.scss",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/assets/vps/1/data.json",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/home/home.component.html",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/dist/index.html",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/README.md",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/index.html",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/home/home.component.ts",
+		"/private/var/folders/k0/kfztsycn02v9hlztw21_w7m40000gn/T/fz3temp-2/index 2.html",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/play/play.module.ts",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/app.module.ts",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/core/shell/header/header.component.html",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/about/about.module.ts",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/home/home.module.ts",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/play/play-routing.module.ts",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/about/about.component.html",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/src/app/home/home.component.scss",
+		"/Users/dimitris/Working now/Waves/D2.2/OL-mobile/.gitignore",
+		"/private/var/folders/k0/kfztsycn02v9hlztw21_w7m40000gn/T/fz3temp-2/page.tpl.php",
+		"/private/var/folders/k0/kfztsycn02v9hlztw21_w7m40000gn/T/fz3temp-2/settings.php",
+		"/private/var/folders/k0/kfztsycn02v9hlztw21_w7m40000gn/T/fz3temp-2/template.php",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/home/home.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/feed/feed.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/feed/feed.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/feed/feed.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/recommended/recommended.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/home/home.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/theme/variables.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/home/home.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/providers/settings/settings.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/addfeedoptions/addfeedoptions.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/feed-settings/feed-settings.ts",
+		"/private/var/folders/k0/kfztsycn02v9hlztw21_w7m40000gn/T/fz3temp-2/rp.php",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ionic-angular/themes/ionic.theme.dark.scss",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ionic-angular/themes/ionic.theme.dark.ios.scss",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ionic-angular/themes/ionic.globals.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/options/options.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/add-rss-feed/add-rss-feed.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/login-page/login-page.html",
+		"/Users/dimitris/Working now/Projects(personal)/Deprecated/RSS Reader (deprecated)/spotrss.com/feeds data/feeds.inc",
+		"/Users/dimitris/Working now/hps.org.gr/www/sites/all/modules/feeds/feeds.feeds.inc",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/recommended/recommended.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/recommended/recommended.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/options/options.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/options/options.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/options-font-family/options-font-family.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/options-font-family/options-font-family.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/providers/feeds-service.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/app/main.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/app/app.component.ts",
+		"/Users/dimitris/Desktop/SpotRSS/config.xml",
+		"/Users/dimitris/Desktop/SpotRSS/platforms/ios/www/build/main.js",
+		"/Users/dimitris/Desktop/SpotRSS/www/index.html",
+		"/Users/dimitris/Desktop/SpotRSS/package.json",
+		"/Users/dimitris/Desktop/SpotRSS/platforms/ios/www/build/vendor.js.map",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/about/about.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/login-page/login-page.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/add-rss-feed/add-rss-feed.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/components/virtual-ion-img.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/app/app.module.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/addfeedoptions/addfeedoptions.module.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/about/about.ts",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ionic-angular/components/img/img.js",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/options-font-family/options-font-family.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/addfeedoptions/addfeedoptions.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/feed-settings/feed-settings.html",
+		"/Users/dimitris/Desktop/SpotRSS/src/index.html",
+		"/Users/dimitris/Desktop/SpotRSS/package-lock.json",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/web-animations-js/README.md",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/src/polyfills.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/assets/scripts/web-animations.min.js",
+		"/Users/dimitris/Desktop/SpotRSS/src/providers/fetch-feed.ts",
+		"/Users/dimitris/Desktop/SpotRSS/size.json",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/bayes-classifier/examples/client/index.html",
+		"/Users/dimitris/Desktop/allnewsfeed",
+		"/Users/dimitris/Desktop/SpotRSS/src/assets/svg/loading.svg",
+		"/Users/dimitris/Desktop/SpotRSS/src/assets/svg/browser.svg",
+		"/Users/dimitris/Desktop/SpotRSS/src/providers/find-feeds.ts",
+		"/Users/dimitris/.hyper.js",
+		"/Users/dimitris/Desktop/index.html",
+		"/Users/dimitris/Desktop/SpotRSS/platforms/ios/SpotRSS.xcarchive/Info.plist",
+		"/Users/dimitris/Desktop/SpotRSS/src/pages/feed-settings/feed-settings.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/assets/svg/add.svg",
+		"/Users/dimitris/Desktop/rss",
+		"/Users/dimitris/Downloads/outline.json",
+		"/Users/dimitris/Downloads/spotrssapp-user-feeds-export.json",
+		"/Users/dimitris/Downloads/spotrssapp-OfysTCXqrxT0f4dtIwy5uGzM8uy2-export.json",
+		"/Users/dimitris/Desktop/ng2/ngMed/node_modules/caniuse-db/features-json/battery-status.json",
+		"/Users/dimitris/Desktop/SpotRSS/src/providers/auth-service/auth-service.ts",
+		"/Users/dimitris/Downloads/todo-angular-firebase-master/src/app/tasks/components/tasks/tasks.component.ts",
+		"/Users/dimitris/Downloads/todo-angular-firebase-master/src/app/tasks/components/tasks/index.ts",
+		"/Users/dimitris/Downloads/todo-angular-firebase-master/src/app/auth/auth.service.ts",
+		"/Users/dimitris/Downloads/todo-angular-firebase-master/src/app/auth/auth.module.ts",
+		"/Users/dimitris/Downloads/todo-angular-firebase-master/src/app/app.module.ts",
+		"/Users/dimitris/Downloads/todo-angular-firebase-master/src/app/app.component.ts",
+		"/Users/dimitris/Downloads/todo-angular-firebase-master/src/app/app.component.scss",
+		"/Users/dimitris/Desktop/SpotRSS/src/providers/auth-data.ts",
+		"/Users/dimitris/Downloads/spotrssapp--Kog7KqukH49sOvbEpV7-export.json",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/src/app/pipes/object/pairs.ts",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/src/app/pipes/object/pairs.spec.ts",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/src/app/pipes/object/pairs.metadata.json",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/src/app/pipes/object/pairs.js",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/src/app/pipes/object/pairs.d.ts",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/src/app/pipes/array/group-by.spec.ts",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/esm/pipes/array/group-by.js",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/esm/pipes/array/index.js",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ngx-pipes/README.md",
+		"/Users/dimitris/Desktop/SpotRSS/src/pipes/map-to-iterable/map-to-iterable.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/pipes/group-by/group-by.ts",
+		"/Users/dimitris/Downloads/ionic-conference-app-master/src/pages/schedule/schedule.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/assets/opml/feedly.opml",
+		"/Users/dimitris/Desktop/SpotRSS/src/providers/feed-item.ts",
+		"/Users/dimitris/Desktop/SpotRSS/src/providers/feed-item.js.map",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ionicons/dist/scss/ionicons-icons.scss",
+		"/Users/dimitris/Desktop/SpotRSS/node_modules/ionic-angular/components/icon/icon.scss",
+		"/Users/dimitris/Desktop/SpotRSS/.gitignore",
+		"/Users/dimitris/Desktop/SpotRSS/README.md"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"APP_NAME",
+			"assets/",
+			"star",
+			"-half-o",
+			"progres",
+			"style=\"font-weight:300\"",
+			"background",
+			"back",
+			"white",
+			"data-hex=\"",
+			"single",
+			"load",
+			"addRSS",
+			"text-",
+			"'\"",
+			"style=\"font-family:",
+			"type",
+			"AddfeedoptionsPage",
+			"stora",
+			"http",
+			"script",
+			"iowan",
+			"georgia",
+			"storage",
+			"imgSrc.len",
+			"alert",
+			"//this.appSettings.updateSettings();",
+			"automatictraining",
+			"Automatictraining",
+			"automatictraining",
+			"displayimages",
+			"Displayimages",
+			"displayimages",
+			"compactmode",
+			"CompactMode",
+			"compactmode",
+			"CompactMode",
+			"compactmode",
+			"promise",
+			"webmd",
+			".card",
+			"anima",
+			"find",
+			"compa",
+			"process",
+			"t",
+			"cf.",
+			"\n              ",
+			"I heard the mexican restaurant is great!",
+			"classifier",
+			"class=\"card-arrow\"",
+			"error",
+			"this.items",
+			"alert",
+			"console.log",
+			"presentToast",
+			"toastCtrl",
+			"findValues",
+			"feedsSer",
+			"exi",
+			"processData",
+			"rss",
+			"data",
+			"-color:",
+			";}",
+			"color:",
+			"{\n\tbackground",
+			"groupBy",
+			"\"title\" : \"Gizmodo\"",
+			"KolbMKR6by8ebe_mHLz",
+			"-KolbMKR6by8ebe_mHLz",
+			"OfysTCXqrxT0f4dtIwy5uGzM8uy2",
+			"authser",
+			"nav",
+			"rout",
+			"nav",
+			"rout",
+			"auth",
+			"groupbyPipe",
+			"GroupByPipe",
+			"key",
+			"make",
+			"this.ref",
+			"groups",
+			"log(data",
+			"data",
+			"commentsRef",
+			"svg",
+			"loader",
+			"product",
+			"feed",
+			"feeds",
+			"dark-light",
+			"f",
+			"feed",
+			"feeds",
+			"username",
+			"message",
+			"chat",
+			"user",
+			"”",
+			"“",
+			"transaction",
+			"PagePage",
+			"rootPage",
+			"wkRewriteURL",
+			"xhr",
+			"safari",
+			"navParams",
+			"NavParams",
+			"navParams",
+			"options",
+			".options",
+			"ActionSheet",
+			"../../",
+			"Feeds",
+			"splash",
+			"2.1.1",
+			"Todo",
+			"todo",
+			"NSAppTransportSecurity",
+			"lastFetch",
+			"Google",
+			"rdf",
+			"atom",
+			"small-text",
+			"ion-card-title",
+			"thumbnail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</ul",
+			"<ul",
+			"",
+			",",
+			":",
+			",",
+			":",
+			",",
+			":",
+			",",
+			":",
+			",",
+			":",
+			"function(appconfig,$scope",
+			"\\n",
+			"</font2>",
+			"<font2",
+			"",
+			"http://www.bio.auth.gr/sites/default/files/remasofouli/",
+			"@mail.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/dimitris/Downloads/SmokeFreeBraincases_mvp_2063700949/map.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "OLmobile.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"home.co",
+				"src/app/home/home.component.html"
+			],
+			[
+				"vend",
+				"platforms/ios/www/build/vendor.js.map"
+			],
+			[
+				"polyfill.ts",
+				"node_modules/ngx-pipes/src/polyfills.ts"
+			],
+			[
+				".plist",
+				"platforms/ios/SpotRSS.xcarchive/Info.plist"
+			],
+			[
+				"opml",
+				"src/assets/opml/feedly.opml"
+			],
+			[
+				"ion-icon",
+				"node_modules/ionicons/dist/scss/ionicons-icons.scss"
+			],
+			[
+				"icon",
+				"node_modules/ionic-angular/components/icon/icon.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

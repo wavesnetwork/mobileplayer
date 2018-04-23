@@ -132,3 +132,5 @@ Development, build and quality processes are based on [angular-cli](https://gith
 - [ngx-translate](https://github.com/ngx-translate/core)
 - [Lodash](https://lodash.com)
 
+# License 
+WAVES Mobile Player for Virtual Patiens is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
